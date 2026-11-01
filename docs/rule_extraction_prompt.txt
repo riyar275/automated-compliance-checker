@@ -1,0 +1,24 @@
+You are assisting with automated building regulation compliance checking.
+
+Task:
+Extract machine-readable accessibility compliance rules from the following Approved Document M text.
+
+For each rule, return a JSON object with:
+- rule_id
+- part_m_reference
+- requirement
+- space_type
+- ifc_entities_needed
+- check_type
+- automatable
+- reason
+
+Use only the provided text. Do not invent requirements.
+
+Classify automatable as:
+- yes
+- partially
+- no
+
+Text:
+[PASTE PART M EXTRACT HERE]

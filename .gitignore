@@ -1,0 +1,41 @@
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# API keys and secrets
+.env
+.env.*
+!.env.example
+*api_key*
+*credentials*
+*secrets*
+
+# Confidential BIM and project data
+data/
+*.ifc
+*.ifczip
+*.rvt
+*.rfa
+*.rte
+*.rvt.bak
+
+# Original generated outputs
+outputs/
+
+# Reports and project documents
+papers/
+*.pdf
+*.docx
+
+# Notebook temporary files
+.ipynb_checkpoints/
+
+# Local configuration
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
