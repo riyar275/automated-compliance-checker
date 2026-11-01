@@ -321,8 +321,23 @@ The research implementation has been separated from the original case-study BIM 
 
 The repository is intended to document the computational methodology and experimental workflow. It does not distribute the underlying architectural project or provide approval to reuse any third-party intellectual property.
 
+## Copyright and License
+
+Copyright © 2026 Riya Ramesh.
+
+This project is licensed under the MIT License. See the LICENSE file for the full license terms.
+
+The copyright and license apply only to the original code, documentation and research materials that the author is authorised to distribute. Third-party materials and intellectual property remain subject to their respective owners' rights.
+
 ## Disclaimer
 
 This repository is provided for academic research, technical exploration and educational purposes.
 
 Results are preliminary and must not be interpreted as evidence of statutory compliance with UK Building Regulations. Regulatory decisions require appropriate professional assessment and reference to the applicable official documents.
+
+
+## Citation
+
+If you use this repository, its code or methodology in academic research, please cite:
+
+Ramesh, R. (2026) AI-Assisted Automated Compliance Checker: Bridging the Gap Between Manual and AI-Assisted BIM Compliance Checking. GitHub repository. Available at: https://github.com/riyar275/automated-compliance-checker
